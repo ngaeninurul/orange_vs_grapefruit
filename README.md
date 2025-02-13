@@ -1,6 +1,6 @@
 # Orange vs Grapefruit: Binary Classification with Neural Networks
 
-## Introduction
+## Overview
 This project focuses on building a binary classification model to distinguish between oranges and grapefruits using neural networks. It walks through key machine learning concepts, including data preprocessing, model training, and inference.
 
 ## Dataset
